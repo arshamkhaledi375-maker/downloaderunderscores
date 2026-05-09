@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [IAMAWIZARDDEMO-1.0](./IAMAWIZARDDEMO-1.0)
 
 ---
 
